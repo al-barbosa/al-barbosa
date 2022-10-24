@@ -7,9 +7,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@alberto_barbosa](https://medium.com/@alberto_barbosa)
 
-- 📫 How to reach me **fbarbosa.alberto@gmail.com**
+- 📫 How to reach me: **fbarbosa.alberto@gmail.com**
 
-- ⚡ Fun fact **I believe that anything can happen, including nothing**
+- ⚡ **I believe that anything can happen, including nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

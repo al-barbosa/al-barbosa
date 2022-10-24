@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm Alberto Barbosa</h1>
+<h1 align="center">Hi, I'm Alberto Barbosa</h1>
 <h3 align="center">A developer in formation addicted to learn.</h3>
 
 - 🌱 I’m currently learning **frameworks for backend and Machine Learning**
